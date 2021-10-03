@@ -25,3 +25,8 @@ https://github.com/spring-projects/spring-security-oauth
 Converting DTO to Entity
 ----------------------------------------------------
 https://medium.com/@a.adendrata/converting-dto-and-entity-c24cba9cef4
+
+
+Spring Security Keycloak
+--------------------------------------------------
+https://www.baeldung.com/rest-api-spring-oauth2-angular
