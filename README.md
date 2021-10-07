@@ -14,12 +14,12 @@ Web chrome server
 -------------------------------------------
 https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related
 
-Spring Boot Oauth 2.0
+Spring Boot Oauth 2.0/Spring Security Oauth
 ---------------------------
 https://javadeveloperzone.com/spring-boot/spring-boot-oauth2-jdbc-token-store-example/
 
-Spring Security Oauth
----------------------------------------------
+https://docs.spring.io/spring-security-oauth2-boot/docs/2.2.x-SNAPSHOT/reference/html/index.html
+
 https://github.com/spring-projects/spring-security-oauth
 
 https://www.baeldung.com/spring-security-oauth-auth-server
