@@ -22,6 +22,8 @@ Spring Security Oauth
 ---------------------------------------------
 https://github.com/spring-projects/spring-security-oauth
 
+https://www.baeldung.com/spring-security-oauth-auth-server
+
 Converting DTO to Entity
 ----------------------------------------------------
 https://medium.com/@a.adendrata/converting-dto-and-entity-c24cba9cef4
