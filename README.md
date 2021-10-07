@@ -22,6 +22,8 @@ https://docs.spring.io/spring-security-oauth2-boot/docs/2.2.x-SNAPSHOT/reference
 
 https://github.com/spring-projects/spring-security-oauth
 
+https://github.com/spring-projects/spring-authorization-server/tree/main/samples/boot/oauth2-integration
+
 https://www.baeldung.com/spring-security-oauth-auth-server
 
 Converting DTO to Entity
