@@ -26,6 +26,10 @@ https://github.com/spring-projects/spring-authorization-server/tree/main/samples
 
 https://www.baeldung.com/spring-security-oauth-auth-server
 
+https://huongdanjava.com/implement-oauth-authorization-server-using-spring-authorization-server.html
+
+https://huongdanjava.com/token-introspection-with-spring-authorization-server.html
+
 Converting DTO to Entity
 ----------------------------------------------------
 https://medium.com/@a.adendrata/converting-dto-and-entity-c24cba9cef4
