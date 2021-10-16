@@ -1,3 +1,31 @@
+Spring Security 5 Oauth 2.0 Latest
+-----------------------------------------------------------
+https://www.appsdeveloperblog.com/new-oauth2-authorization-server/
+
+https://github.com/spring-projects/spring-security/wiki/OAuth-2.0-Migration-Guide
+
+https://github.com/spring-projects/spring-authorization-server
+
+https://github.com/spring-projects/spring-authorization-server/wiki/Feature-List
+
+https://github.com/rlewczuk/spring-authorization-server/tree/gh-265-jdbc-client-repository
+
+https://javadeveloperzone.com/spring-boot/spring-boot-oauth2-jdbc-token-store-example/
+
+https://docs.spring.io/spring-security-oauth2-boot/docs/2.2.x-SNAPSHOT/reference/html/index.html
+
+https://github.com/spring-projects/spring-security-oauth
+
+https://github.com/spring-projects/spring-authorization-server/tree/main/samples/boot/oauth2-integration
+
+https://www.baeldung.com/spring-security-oauth-auth-server
+
+https://huongdanjava.com/implement-oauth-authorization-server-using-spring-authorization-server.html
+
+https://huongdanjava.com/token-introspection-with-spring-authorization-server.html
+
+
+
 Install multiple JDK Versions
 ----------------------------------------------------------------
 https://www.happycoders.eu/java/how-to-switch-multiple-java-versions-windows/
@@ -14,27 +42,15 @@ Web chrome server
 -------------------------------------------
 https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related
 
-Spring Boot Oauth 2.0/Spring Security Oauth
----------------------------
-https://javadeveloperzone.com/spring-boot/spring-boot-oauth2-jdbc-token-store-example/
 
-https://docs.spring.io/spring-security-oauth2-boot/docs/2.2.x-SNAPSHOT/reference/html/index.html
+Custom Annotation Validations Like Email/Mobile Number
+-----------------------------------------------------------------------------
+https://www.baeldung.com/registration-with-spring-mvc-and-spring-security
 
-https://github.com/spring-projects/spring-security-oauth
-
-https://github.com/spring-projects/spring-authorization-server/tree/main/samples/boot/oauth2-integration
-
-https://www.baeldung.com/spring-security-oauth-auth-server
-
-https://huongdanjava.com/implement-oauth-authorization-server-using-spring-authorization-server.html
-
-https://huongdanjava.com/token-introspection-with-spring-authorization-server.html
 
 Converting DTO to Entity
 ----------------------------------------------------
 https://medium.com/@a.adendrata/converting-dto-and-entity-c24cba9cef4
 
+https://www.appsdeveloperblog.com/dto-to-entity-and-entity-to-dto-conversion/
 
-Spring Security Keycloak
---------------------------------------------------
-https://www.baeldung.com/rest-api-spring-oauth2-angular
