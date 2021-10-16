@@ -24,6 +24,8 @@ https://huongdanjava.com/implement-oauth-authorization-server-using-spring-autho
 
 https://huongdanjava.com/token-introspection-with-spring-authorization-server.html
 
+https://youtu.be/ZIjqDIdFyBw
+
 
 
 Install multiple JDK Versions
