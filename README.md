@@ -27,6 +27,11 @@ https://huongdanjava.com/token-introspection-with-spring-authorization-server.ht
 https://youtu.be/ZIjqDIdFyBw
 
 
+Spring Security Legacy
+-------------------------------------
+https://adamzareba.github.io/Secure-Spring-REST-With-Spring-Security-and-OAuth2/
+
+
 
 Install multiple JDK Versions
 ----------------------------------------------------------------
