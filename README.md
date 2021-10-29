@@ -74,4 +74,9 @@ https://angular.io/guide/styleguide
 https://www.ideas2it.com/blogs/angular-development-best-practices/
 
 
+Angular Local Storage
+-------------------------------------------------
+https://blog.briebug.com/blog/managing-local-storage-in-angular
+
+
 
