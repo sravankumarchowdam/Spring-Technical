@@ -61,3 +61,17 @@ https://medium.com/@a.adendrata/converting-dto-and-entity-c24cba9cef4
 
 https://www.appsdeveloperblog.com/dto-to-entity-and-entity-to-dto-conversion/
 
+
+
+Angular Best Practices
+---------------------------------------------
+https://blogs.halodoc.io/angular-best-practices/
+
+https://aglowiditsolutions.com/blog/angular-best-practices/
+
+https://angular.io/guide/styleguide
+
+https://www.ideas2it.com/blogs/angular-development-best-practices/
+
+
+
