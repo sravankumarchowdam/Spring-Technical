@@ -1,3 +1,8 @@
+Uploading Project To GitHub
+------------------------------------------
+https://www.youtube.com/watch?v=LPT7v69guVY
+
+
 Spring Security 5 Oauth 2.0 Latest
 -----------------------------------------------------------
 https://www.appsdeveloperblog.com/new-oauth2-authorization-server/
@@ -30,12 +35,6 @@ https://youtu.be/ZIjqDIdFyBw
 Spring Security Legacy
 -------------------------------------
 https://adamzareba.github.io/Secure-Spring-REST-With-Spring-Security-and-OAuth2/
-
-Uploading Project To GitHub
-------------------------------------------
-https://www.youtube.com/watch?v=LPT7v69guVY
-
-
 
 
 Install multiple JDK Versions
