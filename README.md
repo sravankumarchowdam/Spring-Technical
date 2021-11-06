@@ -2,6 +2,10 @@ Uploading Project To GitHub
 ------------------------------------------
 https://www.youtube.com/watch?v=LPT7v69guVY
 
+Oauth 2.0 Tables
+-----------------------------------------
+https://github.com/spring-projects/spring-security-oauth/blob/main/spring-security-oauth2/src/test/resources/schema.sql
+
 
 Spring Security 5 Oauth 2.0 Latest
 -----------------------------------------------------------
