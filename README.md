@@ -2,6 +2,13 @@ Uploading Project To GitHub
 ------------------------------------------
 https://www.youtube.com/watch?v=LPT7v69guVY
 
+Install Multiple Java Versions In Windows
+--------------------------------------------------
+https://www.happycoders.eu/java/how-to-switch-multiple-java-versions-windows/
+
+https://dzone.com/articles/how-to-install-multiple-versions-of-java-on-the-sa
+
+
 Oauth 2.0 Tables
 -----------------------------------------
 https://github.com/spring-projects/spring-security-oauth/blob/main/spring-security-oauth2/src/test/resources/schema.sql
