@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+Uploading Project To GitHub
+------------------------------------------
+https://www.youtube.com/watch?v=LPT7v69guVY
 
-You can use the [editor on GitHub](https://github.com/sravan07/Technical/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Install Multiple Java Versions In Windows
+--------------------------------------------------
+https://www.happycoders.eu/java/how-to-switch-multiple-java-versions-windows/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://dzone.com/articles/how-to-install-multiple-versions-of-java-on-the-sa
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Oauth 2.0 Tables
+-----------------------------------------
+https://github.com/spring-projects/spring-security-oauth/blob/main/spring-security-oauth2/src/test/resources/schema.sql
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Spring Security 5 Oauth 2.0 Latest
+-----------------------------------------------------------
+https://www.appsdeveloperblog.com/new-oauth2-authorization-server/
 
-- Bulleted
-- List
+https://github.com/spring-projects/spring-security/wiki/OAuth-2.0-Migration-Guide
 
-1. Numbered
-2. List
+https://github.com/spring-projects/spring-authorization-server
 
-**Bold** and _Italic_ and `Code` text
+https://github.com/spring-projects/spring-authorization-server/wiki/Feature-List
 
-[Link](url) and ![Image](src)
-```
+https://github.com/rlewczuk/spring-authorization-server/tree/gh-265-jdbc-client-repository
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+https://javadeveloperzone.com/spring-boot/spring-boot-oauth2-jdbc-token-store-example/
 
-### Jekyll Themes
+https://docs.spring.io/spring-security-oauth2-boot/docs/2.2.x-SNAPSHOT/reference/html/index.html
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sravan07/Technical/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+https://github.com/spring-projects/spring-security-oauth
 
-### Support or Contact
+https://github.com/spring-projects/spring-authorization-server/tree/main/samples/boot/oauth2-integration
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://www.baeldung.com/spring-security-oauth-auth-server
+
+https://huongdanjava.com/implement-oauth-authorization-server-using-spring-authorization-server.html
+
+https://huongdanjava.com/token-introspection-with-spring-authorization-server.html
+
+https://youtu.be/ZIjqDIdFyBw
+
+
+Spring Security Legacy
+-------------------------------------
+https://adamzareba.github.io/Secure-Spring-REST-With-Spring-Security-and-OAuth2/
+
+
+Image Loading 
+----------------------
+https://medium.com/front-end-weekly/how-to-optimize-image-loading-on-your-website-855020fb41ae
+
+
+Web chrome server
+-------------------------------------------
+https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related
+
+
+Custom Annotation Validations Like Email/Mobile Number
+-----------------------------------------------------------------------------
+https://www.baeldung.com/registration-with-spring-mvc-and-spring-security
+
+
+Converting DTO to Entity
+----------------------------------------------------
+https://medium.com/@a.adendrata/converting-dto-and-entity-c24cba9cef4
+
+https://www.appsdeveloperblog.com/dto-to-entity-and-entity-to-dto-conversion/
+
+
+
+Angular Best Practices
+---------------------------------------------
+https://blogs.halodoc.io/angular-best-practices/
+
+https://aglowiditsolutions.com/blog/angular-best-practices/
+
+https://angular.io/guide/styleguide
+
+https://www.ideas2it.com/blogs/angular-development-best-practices/
+
+
+Angular Local Storage
+-------------------------------------------------
+https://blog.briebug.com/blog/managing-local-storage-in-angular
+
+
+
