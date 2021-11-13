@@ -14,6 +14,15 @@ Oauth 2.0 Tables
 https://github.com/spring-projects/spring-security-oauth/blob/main/spring-security-oauth2/src/test/resources/schema.sql
 
 
+Spring Security With Privileges
+-------------------------------------------
+https://www.baeldung.com/role-and-privilege-for-spring-security-registration
+
+https://www.javadevjournal.com/spring-security/spring-security-roles-and-permissions/
+
+https://www.codejava.net/frameworks/spring-boot/spring-boot-security-role-based-authorization-tutorial
+
+
 Spring Security 5 Oauth 2.0 Latest
 -----------------------------------------------------------
 https://www.appsdeveloperblog.com/new-oauth2-authorization-server/
