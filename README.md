@@ -81,12 +81,22 @@ https://www.appsdeveloperblog.com/dto-to-entity-and-entity-to-dto-conversion/
 
 Logging In Spring Boot
 --------------------------------------------
-
 https://www.callicoder.com/spring-boot-log4j-2-example/
 
 https://springframework.guru/using-log4j-2-spring-boot/
 
 https://www.baeldung.com/spring-boot-logging
+
+
+AOP
+-----------------------------------
+https://www.springboottutorial.com/spring-boot-and-aop-with-spring-boot-starter-aop
+
+https://dzone.com/articles/implementing-aop-with-spring-boot-and-aspectj
+
+https://www.javaguides.net/2019/05/spring-boot-spring-aop-logging-example-tutorial.html
+
+https://javarevisited.blogspot.com/2021/03/spring-aop-interview-questions-answers.html (Interview)
 
 
 
