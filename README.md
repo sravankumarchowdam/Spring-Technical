@@ -86,6 +86,8 @@ https://www.callicoder.com/spring-boot-log4j-2-example/
 
 https://springframework.guru/using-log4j-2-spring-boot/
 
+https://www.baeldung.com/spring-boot-logging
+
 
 
 Angular Best Practices
