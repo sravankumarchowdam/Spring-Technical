@@ -79,6 +79,14 @@ https://medium.com/@a.adendrata/converting-dto-and-entity-c24cba9cef4
 https://www.appsdeveloperblog.com/dto-to-entity-and-entity-to-dto-conversion/
 
 
+Logging In Spring Boot
+--------------------------------------------
+
+https://www.callicoder.com/spring-boot-log4j-2-example/
+
+https://springframework.guru/using-log4j-2-spring-boot/
+
+
 
 Angular Best Practices
 ---------------------------------------------
