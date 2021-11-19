@@ -67,9 +67,27 @@ Web chrome server
 https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related
 
 
-Custom Annotation Validations Like Email/Mobile Number
+Custom Annotation Validations Like Email/Mobile Number Spring Boot
 -----------------------------------------------------------------------------
 https://www.baeldung.com/registration-with-spring-mvc-and-spring-security
+
+Custom Exception Handling Spring Boot
+---------------------------------------------------------------------------
+https://www.baeldung.com/exception-handling-for-rest-with-spring
+
+https://dzone.com/articles/best-practice-for-exception-handling-in-spring-boo
+
+https://www.javainuse.com/spring/boot-exception-handling
+
+https://auth0.com/blog/get-started-with-custom-error-handling-in-spring-boot-java/
+
+https://reflectoring.io/spring-boot-exception-handling/
+
+https://www.bezkoder.com/spring-boot-controlleradvice-exceptionhandler/
+
+https://stackoverflow.com/questions/66762006/spring-boot-exception-handling-best-practice
+
+https://springframework.guru/exception-handling-in-spring-boot-rest-api/
 
 
 Converting DTO to Entity
