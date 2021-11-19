@@ -79,6 +79,12 @@ https://medium.com/@a.adendrata/converting-dto-and-entity-c24cba9cef4
 https://www.appsdeveloperblog.com/dto-to-entity-and-entity-to-dto-conversion/
 
 
+Practices About Returing Json
+-----------------------------------------
+
+https://www.baeldung.com/spring-boot-json
+
+
 Logging In Spring Boot
 --------------------------------------------
 https://www.callicoder.com/spring-boot-log4j-2-example/
