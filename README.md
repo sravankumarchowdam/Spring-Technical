@@ -79,10 +79,12 @@ https://medium.com/@a.adendrata/converting-dto-and-entity-c24cba9cef4
 https://www.appsdeveloperblog.com/dto-to-entity-and-entity-to-dto-conversion/
 
 
-Practices About Returing Json
+Response Entity Best Practices
 -----------------------------------------
 
 https://www.baeldung.com/spring-boot-json
+
+https://stackoverflow.com/questions/44839753/returning-json-object-as-response-in-spring-boot
 
 
 Logging In Spring Boot
