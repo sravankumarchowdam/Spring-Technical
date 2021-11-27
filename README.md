@@ -67,9 +67,19 @@ Web chrome server
 https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related
 
 
-Custom Annotation Validations Like Email/Mobile Number Spring Boot
------------------------------------------------------------------------------
+Custom Annotation Validations Like Email/Mobile Number Spring Boot With Hibernate Validator
+------------------------------------------------------------------------------------------
 https://www.baeldung.com/registration-with-spring-mvc-and-spring-security
+
+https://www.baeldung.com/spring-boot-bean-validation (2)
+
+https://reflectoring.io/bean-validation-with-spring-boot/ (1)
+
+https://bushansirgur.in/spring-boot-validation-using-hibernate-validator/ (3)
+
+https://examples.javacodegeeks.com/spring-boot-bean-validation-example/
+
+https://www.netsurfingzone.com/hibernate/hibernate-validator-constraints-example-using-spring-boot/
 
 Custom Exception Handling Spring Boot
 ---------------------------------------------------------------------------
