@@ -13,6 +13,11 @@ Oauth 2.0 Tables
 -----------------------------------------
 https://github.com/spring-projects/spring-security-oauth/blob/main/spring-security-oauth2/src/test/resources/schema.sql
 
+Spring Profiles 
+-----------------------------------------
+
+https://riptutorial.com/spring-boot/example/31100/set-the-right-spring-profile-by-building-the-application-automatically--maven-
+
 
 Spring Security With Privileges
 -------------------------------------------
