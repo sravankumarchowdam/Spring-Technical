@@ -90,6 +90,10 @@ https://www.amitph.com/spring-rest-api-custom-error-messages/
 
 https://www.mindbowser.com/custom-annotation-in-spring-boot/ (4)
 
+http://dolszewski.com/spring/custom-validation-annotation-in-spring/
+
+https://blog.clairvoyantsoft.com/spring-boot-creating-a-custom-annotation-for-validation-edafbf9a97a4
+
 Custom Exception Handling Spring Boot
 ---------------------------------------------------------------------------
 https://www.baeldung.com/global-error-handler-in-a-spring-rest-api (1)
