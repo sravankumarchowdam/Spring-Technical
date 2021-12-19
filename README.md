@@ -88,6 +88,8 @@ https://www.netsurfingzone.com/hibernate/hibernate-validator-constraints-example
 
 https://www.amitph.com/spring-rest-api-custom-error-messages/
 
+https://www.mindbowser.com/custom-annotation-in-spring-boot/ (4)
+
 Custom Exception Handling Spring Boot
 ---------------------------------------------------------------------------
 https://www.baeldung.com/global-error-handler-in-a-spring-rest-api (1)
