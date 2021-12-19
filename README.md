@@ -86,6 +86,8 @@ https://examples.javacodegeeks.com/spring-boot-bean-validation-example/
 
 https://www.netsurfingzone.com/hibernate/hibernate-validator-constraints-example-using-spring-boot/
 
+https://www.amitph.com/spring-rest-api-custom-error-messages/
+
 Custom Exception Handling Spring Boot
 ---------------------------------------------------------------------------
 https://www.baeldung.com/global-error-handler-in-a-spring-rest-api (1)
