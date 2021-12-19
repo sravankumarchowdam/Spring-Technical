@@ -94,6 +94,10 @@ http://dolszewski.com/spring/custom-validation-annotation-in-spring/
 
 https://blog.clairvoyantsoft.com/spring-boot-creating-a-custom-annotation-for-validation-edafbf9a97a4
 
+https://www.baeldung.com/spring-service-layer-validation
+
+https://www.naturalprogrammer.com/courses/332639/lectures/5402564
+
 Custom Exception Handling Spring Boot
 ---------------------------------------------------------------------------
 https://www.baeldung.com/global-error-handler-in-a-spring-rest-api (1)
