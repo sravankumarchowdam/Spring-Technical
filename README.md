@@ -119,6 +119,15 @@ https://stackoverflow.com/questions/66762006/spring-boot-exception-handling-best
 https://springframework.guru/exception-handling-in-spring-boot-rest-api/
 
 
+Read messages from properties file
+-------------------------------------------------------
+https://www.baeldung.com/spring-custom-validation-message-source
+
+https://www.javadevjournal.com/spring-boot/spring-custom-validation-message-source/
+
+https://medium.com/@sheetalabraham90/configure-custom-validation-messagesource-in-spring-boot-f911dc9b5ec
+
+
 Converting DTO to Entity
 ----------------------------------------------------
 https://medium.com/@a.adendrata/converting-dto-and-entity-c24cba9cef4
