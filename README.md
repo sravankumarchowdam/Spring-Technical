@@ -127,6 +127,8 @@ https://www.javadevjournal.com/spring-boot/spring-custom-validation-message-sour
 
 https://medium.com/@sheetalabraham90/configure-custom-validation-messagesource-in-spring-boot-f911dc9b5ec
 
+https://www.javadevjournal.com/spring/spring-boot-internationalization/
+
 
 Converting DTO to Entity
 ----------------------------------------------------
