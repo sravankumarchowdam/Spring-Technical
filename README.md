@@ -158,6 +158,13 @@ https://www.javaguides.net/2018/09/spring-boot-2-logging-slf4j-logback-and-log4j
 https://www.quickprogrammingtips.com/spring-boot/using-log4j2-with-spring-boot.html
 
 
+Hibernate
+-------------------------------------------
+https://thorben-janssen.com/hibernate-tips-same-primary-key-one-to-one-association/
+
+https://thorben-janssen.com/primary-key-mappings-jpa-hibernate/
+
+
 AOP
 -----------------------------------
 https://www.springboottutorial.com/spring-boot-and-aop-with-spring-boot-starter-aop
