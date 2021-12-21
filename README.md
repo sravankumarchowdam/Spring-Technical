@@ -118,6 +118,8 @@ https://stackoverflow.com/questions/66762006/spring-boot-exception-handling-best
 
 https://springframework.guru/exception-handling-in-spring-boot-rest-api/
 
+https://dzone.com/articles/java-top-5-exception-handling (Run time exception best practices)
+
 
 Read messages from properties file
 -------------------------------------------------------
