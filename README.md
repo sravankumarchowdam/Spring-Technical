@@ -185,6 +185,10 @@ https://dzone.com/articles/implementing-aop-with-spring-boot-and-aspectj
 
 https://www.javaguides.net/2019/05/spring-boot-spring-aop-logging-example-tutorial.html
 
+https://www.baeldung.com/spring-aop-annotation
+
+https://stackify.com/spring-aop-tutorial-with-examples/
+
 https://javarevisited.blogspot.com/2021/03/spring-aop-interview-questions-answers.html (Interview)
 
 
