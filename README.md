@@ -159,6 +159,16 @@ https://www.javaguides.net/2018/09/spring-boot-2-logging-slf4j-logback-and-log4j
 
 https://www.quickprogrammingtips.com/spring-boot/using-log4j2-with-spring-boot.html
 
+Logback Spring Boot Configuration
+----------------------------------------------------------------
+https://www.baeldung.com/spring-boot-logging
+
+https://springframework.guru/using-logback-spring-boot/
+
+https://dzone.com/articles/configuring-logback-with-spring-boot
+
+https://www.codejava.net/frameworks/spring-boot/logback-rolling-files-example
+
 
 Hibernate
 -------------------------------------------
