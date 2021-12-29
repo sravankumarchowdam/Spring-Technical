@@ -193,10 +193,22 @@ https://stackify.com/spring-aop-tutorial-with-examples/
 https://javarevisited.blogspot.com/2021/03/spring-aop-interview-questions-answers.html (Interview)
 
 
-Open API 3.0
+Open API 3.0 / Swagger
 ------------------------------------------------------------------
 
 https://www.baeldung.com/spring-rest-openapi-documentation
+
+https://www.javainuse.com/spring/boot_swagger
+
+https://springdoc.org/
+
+https://www.tutorialspoint.com/spring_boot/spring_boot_enabling_swagger2.htm
+
+https://dzone.com/articles/spring-boot-restful-api-documentation-with-swagger
+
+https://swagger.io/blog/news/whats-new-in-openapi-3-0/
+
+https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/
 
 
 Angular Best Practices
