@@ -15,7 +15,6 @@ https://github.com/spring-projects/spring-security-oauth/blob/main/spring-securi
 
 Spring Profiles 
 -----------------------------------------
-
 https://riptutorial.com/spring-boot/example/31100/set-the-right-spring-profile-by-building-the-application-automatically--maven-
 
 
@@ -159,6 +158,8 @@ https://www.javaguides.net/2018/09/spring-boot-2-logging-slf4j-logback-and-log4j
 
 https://www.quickprogrammingtips.com/spring-boot/using-log4j2-with-spring-boot.html
 
+
+
 Logback Spring Boot Configuration
 ----------------------------------------------------------------
 https://www.baeldung.com/spring-boot-logging
@@ -191,6 +192,11 @@ https://stackify.com/spring-aop-tutorial-with-examples/
 
 https://javarevisited.blogspot.com/2021/03/spring-aop-interview-questions-answers.html (Interview)
 
+
+Open API 3.0
+------------------------------------------------------------------
+
+https://www.baeldung.com/spring-rest-openapi-documentation
 
 
 Angular Best Practices
