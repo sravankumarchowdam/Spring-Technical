@@ -226,5 +226,10 @@ Angular Local Storage
 -------------------------------------------------
 https://blog.briebug.com/blog/managing-local-storage-in-angular
 
+Angular Dashboard Basic Configuration
+--------------------------------------------------------------------
+
+https://www.youtube.com/watch?v=sON9WnBDjJg
+
 
 
