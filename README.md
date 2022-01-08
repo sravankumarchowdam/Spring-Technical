@@ -232,4 +232,30 @@ Angular Dashboard Basic Configuration
 https://www.youtube.com/watch?v=sON9WnBDjJg
 
 
+Micro Services
+--------------------------------------------
+
+https://www.nginx.com/learn/microservices/
+
+https://www.nginx.com/learn/microservices-architecture/
+
+https://microservices.io/patterns/microservices.html
+
+https://microservices.io/patterns/microservices.html
+
+Micro Services Best Practices
+------------------------------------------------
+https://marutitech.com/microservices-best-practices/#What_is_Microservices_Architecture
+
+https://towardsdatascience.com/effective-microservices-10-best-practices-c6e4ba0c6ee2
+
+https://www.bmc.com/blogs/microservices-best-practices/#
+
+https://www.capitalone.com/tech/software-engineering/10-microservices-best-practices/
+
+
+
+
+
+
 
