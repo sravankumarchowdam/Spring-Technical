@@ -9,6 +9,15 @@ https://www.happycoders.eu/java/how-to-switch-multiple-java-versions-windows/
 https://dzone.com/articles/how-to-install-multiple-versions-of-java-on-the-sa
 
 
+REST API BEST PRACTICES
+-----------------------------------------------------
+
+https://dzone.com/articles/rest-api-best-practices-with-design-examples-from
+
+https://www.javaguides.net/2018/06/restful-api-design-best-practices.html
+
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
+
 Oauth 2.0 Tables
 -----------------------------------------
 https://github.com/spring-projects/spring-security-oauth/blob/main/spring-security-oauth2/src/test/resources/schema.sql
