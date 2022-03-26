@@ -264,6 +264,12 @@ https://www.capitalone.com/tech/software-engineering/10-microservices-best-pract
 
 
 
+Service Discovery
+-------------------------------------
+
+https://www.baeldung.com/cs/service-discovery-microservices
+
+----------------------------------------------------------
 
 
 
