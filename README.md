@@ -148,6 +148,8 @@ https://medium.com/@a.adendrata/converting-dto-and-entity-c24cba9cef4
 
 https://www.appsdeveloperblog.com/dto-to-entity-and-entity-to-dto-conversion/
 
+https://auth0.com/blog/automatically-mapping-dto-to-entity-on-spring-boot-apis/
+
 
 Response Entity Best Practices
 -----------------------------------------
