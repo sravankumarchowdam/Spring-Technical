@@ -232,6 +232,8 @@ Angular Configuration
 ---------------------------------------------------------
 https://www.tatvasoft.com/blog/angular-optimization-and-best-practices/
 
+https://blog.angular.io/with-best-practices-from-the-start-d64881a16de8
+
 
 ---------------------------------------------
 Angular Best Practices
