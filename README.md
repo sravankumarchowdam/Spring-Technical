@@ -24,6 +24,8 @@ Oauth 2.0 Tables
 -----------------------------------------
 https://github.com/spring-projects/spring-security-oauth/blob/main/spring-security-oauth2/src/test/resources/schema.sql
 
+https://dzone.com/articles/secure-spring-rest-with-spring-security-and-oauth2
+
 Spring Profiles 
 -----------------------------------------
 https://riptutorial.com/spring-boot/example/31100/set-the-right-spring-profile-by-building-the-application-automatically--maven-
@@ -40,6 +42,10 @@ https://www.codejava.net/frameworks/spring-boot/spring-boot-security-role-based-
 
 Spring Security 5 Oauth 2.0 Latest
 -----------------------------------------------------------
+
+https://dzone.com/articles/building-oauth-20-authorization-server
+
+
 https://www.appsdeveloperblog.com/new-oauth2-authorization-server/
 
 https://github.com/spring-projects/spring-security/wiki/OAuth-2.0-Migration-Guide
