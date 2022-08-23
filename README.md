@@ -170,10 +170,15 @@ Logging In Spring Boot
 
 https://coralogix.com/blog/spring-boot-logging-best-practices-guide/
 
-
 https://www.callicoder.com/spring-boot-log4j-2-example/
 
 https://springframework.guru/using-log4j-2-spring-boot/
+
+https://stackify.com/log4j-guide-dotnet-logging/
+
+https://stackoverflow.com/questions/906233/logging-in-java-and-in-general-best-practices
+
+https://examples.javacodegeeks.com/enterprise-java/log4j/log4j-2-best-practices-example/
 
 https://www.sentinelone.com/blog/started-quickly-spring-boot-logging/
 
