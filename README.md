@@ -175,6 +175,10 @@ https://www.callicoder.com/spring-boot-log4j-2-example/
 
 https://springframework.guru/using-log4j-2-spring-boot/
 
+https://www.sentinelone.com/blog/started-quickly-spring-boot-logging/
+
+https://docs.spring.io/spring-boot/docs/2.1.13.RELEASE/reference/html/boot-features-logging.html
+
 https://www.baeldung.com/spring-boot-logging
 
 https://www.javaguides.net/2018/09/spring-boot-2-logging-slf4j-logback-and-log4j-example.html
