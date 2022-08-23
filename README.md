@@ -184,7 +184,6 @@ https://www.sentinelone.com/blog/started-quickly-spring-boot-logging/
 
 https://docs.spring.io/spring-boot/docs/2.1.13.RELEASE/reference/html/boot-features-logging.html
 
-https://www.baeldung.com/spring-boot-logging
 
 https://www.javaguides.net/2018/09/spring-boot-2-logging-slf4j-logback-and-log4j-example.html
 
@@ -201,6 +200,8 @@ https://www.youtube.com/watch?v=bB-xAYpeVL8&ab_channel=TechPrimers
 https://www.youtube.com/watch?v=xJa-UsP9slQ&ab_channel=BrandanJones
 
 https://www.youtube.com/watch?v=cMVj0yF5x0Q&ab_channel=BrandanJones
+
+https://www.youtube.com/watch?v=S9USRSEyWU0&ab_channel=CodeJava
 
 https://springframework.guru/using-logback-spring-boot/
 
