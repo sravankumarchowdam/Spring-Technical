@@ -167,6 +167,10 @@ https://stackoverflow.com/questions/44839753/returning-json-object-as-response-i
 
 Logging In Spring Boot
 --------------------------------------------
+
+https://coralogix.com/blog/spring-boot-logging-best-practices-guide/
+
+
 https://www.callicoder.com/spring-boot-log4j-2-example/
 
 https://springframework.guru/using-log4j-2-spring-boot/
@@ -182,6 +186,12 @@ https://www.quickprogrammingtips.com/spring-boot/using-log4j2-with-spring-boot.h
 Logback Spring Boot Configuration
 ----------------------------------------------------------------
 https://www.baeldung.com/spring-boot-logging
+
+https://www.youtube.com/watch?v=bB-xAYpeVL8&ab_channel=TechPrimers
+
+https://www.youtube.com/watch?v=xJa-UsP9slQ&ab_channel=BrandanJones
+
+https://www.youtube.com/watch?v=cMVj0yF5x0Q&ab_channel=BrandanJones
 
 https://springframework.guru/using-logback-spring-boot/
 
