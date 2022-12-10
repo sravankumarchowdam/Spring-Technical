@@ -26,6 +26,10 @@ https://github.com/spring-projects/spring-security-oauth/blob/main/spring-securi
 
 https://dzone.com/articles/secure-spring-rest-with-spring-security-and-oauth2
 
+https://codeaches.com/spring-cloud-security/oauth2-authorization-jdbc-token-store
+
+https://www.baeldung.com/rest-api-spring-oauth2-angular-legacy
+
 Spring Profiles 
 -----------------------------------------
 https://riptutorial.com/spring-boot/example/31100/set-the-right-spring-profile-by-building-the-application-automatically--maven-
